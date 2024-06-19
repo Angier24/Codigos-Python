@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Codigos Python agregados"
+
+git branch -M main
+
+git remote add origin https://github.com/Angier24/Codigos-Python.git
+
+git push -u origin main
